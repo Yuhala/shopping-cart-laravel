@@ -70,6 +70,7 @@ php artisan serve
 
 - If you see the following webpage, you are good to go...
 
+![welcome-page](cart.png)
 
 ## How to use the program
 
