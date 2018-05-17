@@ -20,7 +20,7 @@ sudo mv composer.phar /usr/local/bin/composer
 Clone the project to your local machine
 
 ```
-git clone ....
+git clone https://github.com/Yuhala/shopping-cart-laravel.git
 
 ```
 Update dependencies: cd into the shopping-cart directory and type the following command
