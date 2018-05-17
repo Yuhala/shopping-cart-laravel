@@ -7,7 +7,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-To follow this tutorial with minimal hiccups you need Ubuntu 16.04 server and a non-root user with sudo priviledges and PhpMyAdmin installed. 
+To follow this tutorial with minimal hiccups you need Ubuntu 16.04 server and a non-root user with sudo priviledges. Install mysql server and PhpMyAdmin to further facilate your work. Installing those packages is beyond the scope of this tutorial...
 
 ## Install Composer 
 Composer is a php dependency management tool. Open your linux terminal and install it using the following commands: 
@@ -33,7 +33,6 @@ composer update
 
 - Create a mysql database called _shopping-cart_
 - Open the _.env_ file in the main project directory and modify accordingly
-
 
 ```
 APP_ENV=local
@@ -78,7 +77,7 @@ php artisan serve
 
 ## Built With
 
-* [ELK Stack](https://www.elastic.co/webinars/introduction-elk-stack) - A powerful open-source log management platform
+* [Laravel Framework](https://laravel.com/) - A free open-source PHP web framework.
 
 
 ## Authors
