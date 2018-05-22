@@ -50,7 +50,7 @@ DB_USERNAME=yourusername
 DB_PASSWORD=yourpassword
 
 ```
--Rename the `.env.example` to `.env` an save the changes
+- Rename the `.env.example` to `.env` and save the changes
 - Run the migrations so as to create the database tables
 ```
 php artisan migrate
