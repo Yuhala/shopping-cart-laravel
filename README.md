@@ -32,8 +32,8 @@ composer update
 ```
 ## Deploying the app on your local machine 
 
-- Create a mysql database called _shopping-cart_
-- Open the _.env_ file in the main project directory and modify accordingly
+- Create a mysql database called `shopping-cart`
+- Open the `.env.example` file in the main project directory and modify accordingly
 
 ```
 APP_ENV=local
@@ -50,6 +50,7 @@ DB_USERNAME=yourusername
 DB_PASSWORD=yourpassword
 
 ```
+-Rename the `.env.example` to `.env` an save the changes
 - Run the migrations so as to create the database tables
 ```
 php artisan migrate
