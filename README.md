@@ -4,7 +4,7 @@ A mini shopping cart web app powered by laravel framework.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. The projects 
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
 ### Prerequisites
 
@@ -76,7 +76,10 @@ php artisan serve
 
 ## How to use the program
 
-.....
+- Start by signing up and creating a user profile.
+- After logging in to your profile, go to the market place and add items to your shopping cart. You can view the contents of your shopping cart by clicking the cart image at the top right of the page.
+- Choose a payment type and proceed to checkout.
+- The rest is pretty self-explanatory...
 
 ## Built With
 
@@ -91,7 +94,7 @@ php artisan serve
 </p>
 
 
-## Authors
+## Author
 
 * **Peterson Yuhala** 
 
@@ -103,4 +106,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 * Acacha : https://github.com/acacha/adminlte-laravel 
+
+## Future Improvements
+- This program can be greatly improved. Some payment strategies are not very functional and more interesting functionalities can be added. Pull requests for rectifications are highly welcome...
+
+
+
+
+
+
+
 
