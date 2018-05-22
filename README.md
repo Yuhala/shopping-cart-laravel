@@ -108,7 +108,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * Acacha : https://github.com/acacha/adminlte-laravel 
 
 ## Future Improvements
-- This program can be greatly improved. Some payment strategies are not very functional and more interesting functionalities can be added. Pull requests for rectifications are highly welcome...
+- This program can be greatly improved. Some payment strategies are not very functional and more interesting features can be added. Pull requests for rectifications are highly welcome...
 
 
 
